@@ -1,0 +1,54 @@
+Credit : Mapping by patoche#4702
+My Youtube : https://www.youtube.com/channel/UCHDmZB2QPSEucvlslURrrqQ
+-----------------------------------------------------------------------------------------
+
+Thank you for purchasing the mapping
+
+To avoid LEAK because it would be a shame to share this mapping:
+Do not give access to your server to developers in whom you do not have
+ the extreme confidence. They can work on a localhost because know that they 
+can recover all your resources. Be smart and careful.
+
+-----------------------------------------------------------------------------------------
+What you can find inside the zip : 
+Folder " [map]" : the mapping hideout
+Folder " [script]" : the script
+-----------------------------------------------------------------------------------------
+MAP INSTALL : 
+
+step 1 :  Copy/Past the folder " patoche_hideout_mechanic " on your resource folder .
+step 2 : Open your server.cfg and Start/Ensure patoche_hideout_mechanic.
+
+----------------------------------------------------------------------------------------
+
+SCRIPT INSTALL : 
+/!\ The script is a gift. If you don't want use it you can use your script. I think isn't perfect
+but that can help you :)
+
+step 1 :  Copy/Past the folder " esx_customIllegal " + Copy/Past the folder " esx_illegalmecano" 
+on your resource folder .
+step 2 : Open your server.cfg and Start/Ensure esx_customIllegal + Start/Ensure esx_customIllegal.
+step 3 : add "illegalmecano.sql" on your SQL
+
+What is it for : 
+It's a mechanic job like LsCustom / Benny's  BUT for custom that use THE BLACK MONE !
+
+for give the job en first if you are alone on your DEV serv : 
+Press T and /setjob 1 illegalmecano 2
+
+----------------------------------------------------------------------------------------
+
+
+place : garage gate
+Name of door : patoche_mecaille_door
+position : X:1008.72 Y:-2532.198 Z:29.35174
+
+
+----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
